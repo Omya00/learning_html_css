@@ -1,0 +1,38 @@
+h5 
+{
+    font: size 800px;
+    color: brown;
+    background-color: beige;
+}
+/* p{
+    font-size: 40px !important;
+    color: blue;
+} */
+
+.para{
+
+    color:brown
+}
+.fs{
+
+    font-size: 40px;
+}
+#abc{
+    color: blue;
+}
+#xyz{
+
+    font-size: 40px;
+
+}
+
+.t_uppercase{
+    text-transform: uppercase;
+}
+.t_lowercase{
+    text-transform: lowercase;
+}
+.capitalize{
+    text-transform: capitalize;
+}
+
